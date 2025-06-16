@@ -1,0 +1,7 @@
+
+body { font-family: "Helvetica Neue", Arial, sans-serif; background: #f7f7f7; color: #222; padding: 2em; line-height: 1.6; }
+header { background: #111; color: #fff; padding: 1em; }
+nav a { color: #9cf; margin: 0 1em; text-decoration: none; }
+main { background: white; padding: 2em; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+h1, h2, h3 { color: #222; }
+img { max-width: 100%; height: auto; margin: 1em 0; }
